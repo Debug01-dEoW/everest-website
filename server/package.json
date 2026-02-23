@@ -1,0 +1,13 @@
+{
+    "name": "everest-backend",
+    "version": "1.0.0",
+    "type": "module",
+    "main": "server.js",
+    "dependencies": {
+        "cors": "^2.8.5",
+        "dotenv": "^17.3.1",
+        "express": "^4.19.2",
+        "nodemailer": "^8.0.1",
+        "sqlite3": "^5.1.7"
+    }
+}
